@@ -8,6 +8,8 @@ A goal of this project is to put all online badges(like w3c validate badge) in o
  # Special Thanks:
  - João Ventura (http://venturas.org)
  - Stephan Bönnemann (github.com/boennemann/badges)
+ - Lukas Himsel lukas-h (https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba#file-license-badges-md)
+
  
  ## Continuous Integration/Deployment
 
