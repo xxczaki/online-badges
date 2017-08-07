@@ -131,6 +131,10 @@ A goal of this project is to put all online badges(like w3c validate badge) in o
 ### Code Climate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
 
+[![Test Coverage](https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg)](https://codeclimate.com/github/codeclimate/codeclimate/coverage)
+
+[![Issue Count](https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+
 ### Scrutinizer
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/boennemann/badges/badges/quality-score.png?s=35c5476d4b6e6a249399f9f9c205d397f57b1d1c)](https://scrutinizer-ci.com/g/boennemann/badges/)
 
@@ -276,3 +280,11 @@ A goal of this project is to put all online badges(like w3c validate badge) in o
 ### Awesome Lists
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+### Deploy to...
+
+[![forthebadge](https://www.herokucdn.com/deploy/button.svg)](http://LINK_TO_HEROKU)
+
+[![forthebadge](https://www.netlify.com/img/deploy/button.svg)](http://LINK_TO_NETLIFY)
+
+
